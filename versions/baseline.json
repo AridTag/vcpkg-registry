@@ -1,5 +1,5 @@
 {
     "default": {
-      "lib-asmkraken": { "baseline": "0.0.1", "port-version": 0 }
+      "lib-asmkraken": { "baseline": "0.0.2", "port-version": 0 }
     }
 }

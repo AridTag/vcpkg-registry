@@ -1,8 +1,8 @@
 vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
         REPO AridTag/lib-asmkraken
-        REF 92938d7ad8587ce238e84e2dee0c02de4f14c81b
-        SHA512 9ebbde5eedcfc135bd1b15d7547df7d183e12467109172102e4b7cbde949bd0adb8ae21983a2ca9f3c77fe7e4ad93f09a9ba80897deb56c1766520d4e368d8f6
+        REF 7116ecc71ca02f69125a5400e67c9d912b82e0e9
+        SHA512 ff676ff7861f8921692d25ff5e20dfa07c519a0682567401261e1f284b818ffb1696df32b11e4bb5905d4ed294b8d8f962ff23661fb880f126d3e92c0c0bc475
         HEAD_REF master
 )
 

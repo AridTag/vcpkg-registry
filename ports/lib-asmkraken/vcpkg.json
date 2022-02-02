@@ -1,6 +1,6 @@
 {
   "name": "lib-asmkraken",
-  "version": "0.0.1",
+  "version-string": "0.0.2",
   "description": "AsmKraken is a library for the scanning of and manipulation of a processes memory. This includes scanning for byte patterns using yara rules and patching assembly instructions",
   "dependencies": [
     "yara"
